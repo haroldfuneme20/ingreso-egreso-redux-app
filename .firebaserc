@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-redux-app-hhfm": {
+      "hosting": {
+        "ingreso-egreso-app": [
+          "ingreso-egreso-redux-app-hhfm"
+        ]
+      }
+    }
+  }
+}
